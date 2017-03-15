@@ -589,3 +589,8 @@ label { min-width: 80px; text-align: right; display: inline-block; }
 /* .debug { display: block; width: 100px; height: 100px; background-color: #ff0000; } <div class="debug"></div> */
 
 /*# sourceMappingURL=styles.min.css.map */
+
+.nope-container {
+  text-align: center;
+  margin-top: 50px;
+}
